@@ -1,4 +1,4 @@
-# The-Final-Dynasty
+# The Final Dynasty
 An absolutley weirdly bad awesome game.
 
 A extreme WIP
